@@ -49,7 +49,7 @@ export default function ModelViewerContent({ modelUrl }: ModelViewerContentProps
         style={{
           width: '100%',
           height: '100%',
-          backgroundColor: '#1A1A1A',
+          backgroundColor: '#FFFFFF',
         }}
       />
     </>
